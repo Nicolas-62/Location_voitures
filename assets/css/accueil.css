@@ -1,0 +1,38 @@
+#bis{
+    background-image: url("../projet.dev/images/road.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+.card{
+    text-align: center;
+    margin-top: 40px;
+    background-color: transparent;
+}
+
+div.hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+    text-align: center;
+    height: 0px;
+    line-height: 0px;
+}
+
+.hr-title {
+    background-color: #fff;
+}
+
+hr.style15 {
+    border-top: 4px double #8c8b8b;
+    text-align: center;
+}
+
+.container{
+    height: 100%;
+}
+
+
+
+

@@ -1,0 +1,68 @@
+@font-face {
+	font-family: "MASQUE";
+	src: url('/projet.dev/font/MASQUE.ttf');
+}
+
+
+.img{
+	width: 100px;
+}
+
+
+h1 {
+	color: #fd7e14;
+}
+
+
+.degrade {
+    background-image: linear-gradient(to right, black, #578aa9);
+
+    /* Obligatoire si on veut "voir" le dégradé */
+    min-width: 100%;
+    min-height: 80px;
+
+}
+
+
+.espace {
+	margin-top: 100px;
+}
+
+#titre {
+	font-family: MASQUE;
+	color: white;
+	font-size: 1.5em;
+}
+
+
+footer a{
+color: white;
+}
+
+footer p{
+	color: white;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+footer{
+	background-color: black;
+	margin-top: 100px;
+}
+
+
+.carte {
+  background: url('../images/carte_monde.png') no-repeat center ;
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover;
+  height: 500px;
+}
+
+#agence{
+	font-weight: bold;
+}
+
+#formul{
+	background-color: #faf8f3;
+	width: auto;
+}
